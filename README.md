@@ -16,13 +16,13 @@ and a Streamlit dashboard.
 
 ## 📁 Project Structure
 \`\`\`
-stock-data-pipeline/
-├── ingestion/         # Lambda ingestion script
-├── transformation/    # PySpark Glue jobs
-├── sql/               # Athena queries
-├── dashboard/         # Streamlit app
-├── infrastructure/    # Setup notes & config
-└── data/sample/       # Sample data for local testing
+  stock-data-pipeline/
+  ├── ingestion/         # Lambda ingestion script
+  ├── transformation/    # PySpark Glue jobs
+  ├── sql/               # Athena queries
+  ├── dashboard/         # Streamlit app
+  ├── infrastructure/    # Setup notes & config
+  └── data/sample/       # Sample data for local testing
 \`\`\`
 
 ## 🚀 How to Run Locally
